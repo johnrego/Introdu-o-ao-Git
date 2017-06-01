@@ -1,0 +1,5 @@
+Descrição de comandos
+
+git commit -a -m "Menssagem"
+git log --pretty=oneline
+git pull origin master
